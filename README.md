@@ -1,85 +1,104 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Banner"/>
 
-  <br>
+  <!-- 🌟 Animated Banner -->
+  <img src="https://i.ibb.co/3y8mtqL/github-banner-techwave.gif" alt="Kolipaka Hemanth Kumar Banner" width="100%"/>
 
-  <h1>
-    👋 Hi, I'm Kolipaka Hemanth Kumar
-  </h1>
-  <strong>Frontend Developer | CSE Student | React Enthusiast</strong>
-  <br>
-  <br>
-  <p>
-    A passionate Computer Science student from India 🇮🇳 with a strong interest in building
-    <br> 
-    interactive, modern, and beautiful web applications.
+  <h1>👋 Hi, I'm <strong>Kolipaka Hemanth Kumar</strong></h1>
+  <h3>🚀 Frontend Developer | 💻 CSE Student | ⚛️ React Enthusiast</h3>
+
+  <p align="center">
+    Passionate about crafting <strong>interactive</strong>, <strong>modern</strong>, and <strong>beautiful</strong> web experiences.<br>
+    Currently learning <strong>Full Stack Development</strong> with a focus on <strong>React</strong> and <strong>MongoDB</strong>.<br>
+    ✨ Fun fact: I play cricket 🏏 every evening!
   </p>
 </div>
 
 ---
 
-### 🔭 About Me
-- 🎓 I'm a **Computer Science student** with a strong passion for web development and problem-solving.
-- 💡 I love creating **interactive, animated, and modern** user interfaces that users love.
-- 🌱 I'm currently expanding my skills in **React JS**, **MongoDB**, and **Full Stack Development**.
-- ⚡ Fun fact: I play cricket 🏏 every evening!
+## 🧠 About Me
+
+- 🎓 B.Tech CSE student with a love for technology and creativity.  
+- 🌱 Exploring React.js, MongoDB, TailwindCSS, and Node.js.  
+- 💡 I enjoy building responsive, animated, and user-friendly applications.  
+- 🎯 Goal: Become a full-stack developer and contribute to impactful open-source projects.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemath070705&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemath070705&theme=dark" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemath070705&layout=compact&theme=dark" alt="Top Languages"/>
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=hemath070705&show_icons=true&theme=codestackr&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" 
+       height="165" />
+
+  <!-- GitHub Streak -->
+  <img 
+       src="https://streak-stats.demolab.com?user=hemath070705&theme=codestackr&hide_border=true" 
+       height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemath070705&theme=dark&column=7" alt="GitHub Trophies"/>
+  <!-- Most Used Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemath070705&layout=compact&theme=codestackr&langs_count=6&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hemath070705&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-### 🚀 My Projects
+## 🧩 Featured Projects
 
-Here are a few things I've been working on:
+### 🧮 [Modern Calculator](https://hemath070705.github.io/modern-calculator/)
+A sleek, functional calculator built with modern web technologies.
 
-* 🧮 **[Modern Calculator](https://hemath070705.github.io/modern-calculator/)**: A sleek, functional calculator built with modern web technologies.
-* 💻 **Personal Portfolio**: (In Progress) A new portfolio to showcase my projects, built with React.
-* *More exciting projects coming soon...*
+### 💼 Portfolio Website (In Progress)
+A dynamic React-based portfolio to showcase my work and journey.
+
+### ⚙️ Upcoming Projects
+More exciting web apps and experiments coming soon...
 
 ---
 
-### 📫 Let's Connect
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/hemath070705">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/kolipakahemanthkumar070705">
+  <a href="https://www.linkedin.com/in/kolipakahemanthkumar070705/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -87,3 +106,9 @@ Here are a few things I've been working on:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  <i>✨ Crafted with passion by Kolipaka Hemanth Kumar ✨</i>
+</div>
