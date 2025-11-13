@@ -80,8 +80,8 @@
 | 🌟 Project | 🔗 Link | 🛠 Tech Stack |
 |-------------|---------|---------------|
 | 🧮 **Modern Calculator** | [Live Demo](https://hemath070705.github.io/modern-calculator/) | HTML, CSS, JS |
-| 💼 **Portfolio Website** *(In Progress)* | Coming Soon | React, TailwindCSS |
-| ⚙️ More projects | Coming soon... | MERN Stack |
+| 💼 **Portfolio Website** | [live Demo](https://hemath070705.github.io/my-portfolio/) | HTML,CSS,TailwindCSS |
+| 📷 **Gallary**|[live Demo](https://hemath070705.github.io/my-gallary/) | HTML,CSS,JS |
 
 ---
 
