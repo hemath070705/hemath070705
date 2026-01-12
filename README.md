@@ -79,9 +79,10 @@
 
 | 🌟 Project | 🔗 Link | 🛠 Tech Stack |
 |-------------|---------|---------------|
-| 🧮 **Modern Calculator** | [Live Demo](https://hemath070705.github.io/modern-calculator/) | HTML, CSS, JS |
-| 💼 **Portfolio Website** | [live Demo](https://hemath070705.github.io/my-portfolio/) | HTML,CSS,TailwindCSS |
-| 📷 **Gallary**|[live Demo](https://hemath070705.github.io/my-gallary/) | HTML,CSS,JS |
+| 🆔 **Policy-Driven Aadhaar Enrollment Intelligence System** | [Live Demo](https://aadhaar-insights-hub.vercel.app) · [GitHub](https://github.com/hemath070705/aadhaar-insights-hub) | React, TypeScript, Vite, Tailwind CSS, Recharts, ML (Isolation Forest), UIDAI Data |
+| 🧮 **Modern Calculator** | [Live Demo](https://hemath070705.github.io/modern-calculator/) | HTML, CSS, JavaScript |
+| 💼 **Portfolio Website** | [Live Demo](https://hemath070705.github.io/my-portfolio/) | HTML, CSS, Tailwind CSS |
+| 📷 **Gallery** | [Live Demo](https://hemath070705.github.io/my-gallary/) | HTML, CSS, JavaScript |
 
 ---
 
