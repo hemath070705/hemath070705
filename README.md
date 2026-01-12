@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/3y8mtqL/github-banner-tech.gif" width="100%" alt="Kolipaka Hemanth Kumar Banner"/>
 
 <h1>👋 Hi, I'm <strong>Kolipaka Hemanth Kumar</strong></h1>
-<h3>💻 Frontend Developer | 🎓 CSE Student | ⚛️ React Enthusiast</h3>
+<h3>💻 Frontend Developer | 🎓 CSE Student | </h3>
 
 <p>
   🚀 Passionate about building <b>modern, animated, and interactive</b> web apps that make an impact.<br/>
